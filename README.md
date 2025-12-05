@@ -50,9 +50,10 @@
     - 发送消息链接给机器人以转发单个消息。
     - `/clear`: 删除机器人发送的消息。
     - `/stop`: 停止正在进行的批量转发任务。
+## 示例图
 <img width="639" height="911" alt="image" src="https://github.com/user-attachments/assets/089728a0-abfb-42f8-b65c-2aec4ef1757a" />
 <img width="634" height="725" alt="image" src="https://github.com/user-attachments/assets/fa22bb47-7a9f-4fc0-8a28-456d55fd3288" />
-个人娱乐用，切勿用于非法用途， https://t.me/d2_22
+
 ## 许可证
 
-本项目未获得许可。
+个人娱乐用，切勿用于非法用途， https://t.me/d2_22
